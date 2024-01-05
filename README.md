@@ -2,6 +2,9 @@
 
 This is a simple note app built using React for the frontend, Node.js for the backend, and PostgreSQL for the database.
 
+![NoteApp](https://github.com/khaouitiabdelhakim/ProSoundEQ/blob/master/picture.png)
+
+
 ## Usage
 
 ### Setting up the Database
