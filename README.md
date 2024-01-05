@@ -1,6 +1,3 @@
-Certainly! Here's a simple README template for your GitHub repository for a note app using React, Node.js, and PostgreSQL:
-
-
 # Note App
 
 This is a simple note app built using React for the frontend, Node.js for the backend, and PostgreSQL for the database.
