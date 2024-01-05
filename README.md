@@ -1,6 +1,6 @@
 Certainly! Here's a simple README template for your GitHub repository for a note app using React, Node.js, and PostgreSQL:
 
-```markdown
+
 # Note App
 
 This is a simple note app built using React for the frontend, Node.js for the backend, and PostgreSQL for the database.
@@ -51,9 +51,4 @@ This is a simple note app built using React for the frontend, Node.js for the ba
 
 Feel free to contribute by opening issues or creating pull requests.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Make sure to replace the PostgreSQL database details and the commands with the actual details for your project. You can also include additional sections, such as Features, Roadmap, Known Issues, etc., based on your project's needs.
